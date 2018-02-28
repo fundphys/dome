@@ -1,0 +1,3 @@
+# ignore virtual enviroment part
+env
+scripts/.ipynb_checkpoints
