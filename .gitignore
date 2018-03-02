@@ -1,3 +1,4 @@
 # ignore virtual enviroment part
+data
 env
 scripts/.ipynb_checkpoints
